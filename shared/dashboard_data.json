@@ -1,0 +1,17 @@
+{
+    "ear": 0.2581405837115314,
+    "blink_count": 3,
+    "closure_duration": 0.0,
+    "phone_detected": false,
+    "distraction_duration": 0.0,
+    "risk_score": 0.0,
+    "risk_level": "LOW",
+    "system_status": "ACTIVE",
+    "sos_active": false,
+    "latitude": null,
+    "longitude": null,
+    "map_link": null,
+    "heart_rate": 0.0,
+    "heart_status": "NO_SIGNAL",
+    "timestamp": 1774095154.6007414
+}

@@ -1,0 +1,12 @@
+# utils/constants.py
+
+# Non-response thresholds (seconds)
+
+NON_RESPONSE_EYE_CLOSURE_THRESHOLD = 5.0
+
+NON_RESPONSE_NO_BLINK_THRESHOLD = 10.0
+
+NON_RESPONSE_FACE_ABSENCE_THRESHOLD = 5.0
+
+# SOS cooldown
+SOS_COOLDOWN = 60.0
