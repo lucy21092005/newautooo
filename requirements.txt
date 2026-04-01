@@ -1,0 +1,26 @@
+# Core Computer Vision
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+numpy==1.26.4
+
+# Deep Learning (YOLOv8)
+ultralytics==8.3.0
+torch==2.2.2
+torchvision==0.17.2
+
+# Machine Learning
+scikit-learn==1.5.1
+joblib==1.4.2
+scipy==1.13.1
+
+# Data handling
+pandas==2.2.2
+
+# Audio alert
+pygame==2.6.0
+
+# Visualization (optional but recommended)
+matplotlib==3.9.0
+
+# Utilities
+tqdm==4.66.4
